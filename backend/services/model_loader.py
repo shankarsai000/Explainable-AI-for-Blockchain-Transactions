@@ -20,8 +20,8 @@ class ModelLoader:
     _tx_features: Optional[Any] = None
     _models_loaded: bool = False
     
-    # Default model directory (parent of backend folder)
-    _models_dir: str = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "")
+    # Default model directory (root/models)
+    _models_dir: str = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "models")
     
     @classmethod
     def set_models_dir(cls, path: str):
