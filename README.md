@@ -585,6 +585,9 @@ MIT License — free to use, modify, and distribute.
 Built as an AI + Blockchain analytics system to improve Web3 transparency and transaction literacy.
 
 **GitHub:** [@shankarsai000](https://github.com/shankarsai000)
+
+---
+
 **linkedin:** https://www.linkedin.com/posts/shankar-sai-n-b92729362_blockchain-web3-explainableai-activity-7425367426093068288-CxVB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoqGV4Br9PBUD_-Y7sxwLzgvomUuRrkVLk
 ---
 
