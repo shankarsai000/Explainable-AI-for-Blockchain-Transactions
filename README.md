@@ -69,6 +69,11 @@ The result: clear, structured explanations of "what actually happened" in any bl
 │                  (via Alchemy / Infura RPC)                      │
 └─────────────────────────────────────────────────────────────────┘
 ```
+<img width="1024" height="1024" alt="Gemini_Generated_Image_aygo6jaygo6jaygo" src="https://github.com/user-attachments/assets/01acd119-78e2-4d10-9bac-3d82959afb0b" />
+
+
+
+
 
 ---
 
